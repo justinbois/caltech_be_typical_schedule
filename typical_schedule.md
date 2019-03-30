@@ -26,11 +26,10 @@
 |Ch 25 | - | - | 9 |
 | ACM 95 ab | - | 12 | 12 |
 |Bi 122 | 9 | - | - |
-| Additional intro lab requirement | - | 6 | - | 
 |Menu course  | - | - | 9 |
-| HSS | 9 | 9 | - |
+| HSS | 9 | 18 | - |
 |Physical education | - | 3 | 3 |
-|**Total** | 45 | 39 | 42 |
+|**Total** | 45 | 42 | 42 |
 
 
 ## Third year
@@ -54,11 +53,11 @@
 | ------------- |-------------:| -----:| -----:|
 | Bi/BE 24 | 6 | - | - |
 | BE/APh 161 | - | 12 | - |
-|BE/CS/CNS/Bi 191 a | - | 9 | - | 
+|BE/CS/CNS/Bi 191 a | - | 9 | - |
 |BE 150 | - | - | 9 |
 |BE/Bi 106 | - | 9 | - |
 | BE 98 | 9 | - | 9 |
 | Bi/CNS/NB 154| 9 | - | - |
 | ChE 130 | - | - | 9 |
-| HSS | 18 | 9 | 18 |
-|**Total** | 42 | 39 | 45 |
+| HSS | 18 | 9 | 9 |
+|**Total** | 42 | 39 | 36 |
