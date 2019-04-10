@@ -25,11 +25,12 @@
 |Ch 41 a | 9 | - | - |
 |Ch 25 | - | - | 9 |
 | ACM 95 ab | - | 12 | 12 |
-|Advanced Biology Elective | 9 | - | - |
+|BE/EE/MedE 189 a | 12 | - | - |
+|Advanced Biology Elective | - | 9 | - |
 |Menu course  | - | - | 9 |
-| HSS | 9 | 9 | - |
+| HSS | - | 9 | - |
 |Physical education | - | 3 | 3 |
-|**Total** | 45 | 33 | 42 |
+|**Total** | 39 | 41 | 42 |
 
 
 ## Third year
@@ -39,10 +40,10 @@
 | Advanced BE Electives| 9 | 9 | 18 |
 |Bi/Ch 110 | 12 | - | - |
 |ChE/BE 163 | 12 | - | - |
-|BE/EE/MedE 189 a | - | - | 12 |
 |BE/CS 196 a | - | 12 | - |
+|BE 150 | - | - | 9 |
 | HSS | - | 18 | 9|
-|**Total** | 42| 39 | 39 |
+|**Total** | 42| 39 | 36 |
 
 
 ## Fourth year
