@@ -26,11 +26,10 @@
 |Ch 25 | - | - | 9 |
 | ACM 95 ab | - | 12 | 12 |
 |Advanced Biology Elective | 9 | - | - |
-| Additional intro lab requirement | - | 6 | - | 
 |Menu course  | - | - | 9 |
 | HSS | 9 | 9 | - |
 |Physical education | - | 3 | 3 |
-|**Total** | 45 | 39 | 42 |
+|**Total** | 45 | 33 | 42 |
 
 
 ## Third year
