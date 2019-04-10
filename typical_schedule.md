@@ -1,3 +1,6 @@
+# Typical schedule 
+(specific courses are representive and may be substituted per option requirements)
+
 ## First year
 
 | Course        | Fall units | Winter units | Spring units|
