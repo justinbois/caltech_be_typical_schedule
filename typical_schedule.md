@@ -56,6 +56,7 @@
 |BE/CS/CNS/Bi 191 a | - | 9 | - | 
 |BE 150 | - | - | 9 |
 | ChE 130| - | - | 9 |
+| Elective | 9 | - | - |
 | BE 98 | 9 | 9 | 9 |
 | HSS | 9 | 9 | 9 |
 |Physical education | 3 | - | - |
