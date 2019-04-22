@@ -44,7 +44,7 @@
 | Advanced BE Electives| 9 | 9 | 18 |
 |Bi/Ch 110 | 12 | - | - |
 |BE 98| - | - | 6 |
-| HSS | 18 | 18 | 9|
+| HSS | 9 | 18 | 9|
 |**Total** | 48| 39 | 45 |
 
 
