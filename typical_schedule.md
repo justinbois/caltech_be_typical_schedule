@@ -33,8 +33,8 @@
 |Advanced Biology Elective | - | 9 | - |
 |Menu course  | - | - | 9 |
 | HSS | - | 9 | 9 |
-|Physical education | - | 3 | - |
-|**Total** | 48 | 42 | 48 |
+|Physical education | 3 | 3 | - |
+|**Total** | 42 | 42 | 48 |
 
 
 ## Third year
