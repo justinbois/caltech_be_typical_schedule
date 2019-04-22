@@ -31,7 +31,7 @@
 |BE/EE/MedE 189 a | - | - | 12 |
 |Advanced Biology Elective | - | 9 | - |
 |Menu course  | - | - | 9 |
-| HSS | 9 | 9 | 9 |
+| HSS | - | 18 | 9 |
 |Physical education | - | 3 | - |
 |**Total** | 39 | 41 | 42 |
 
