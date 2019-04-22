@@ -57,6 +57,6 @@
 |BE/CS/CNS/Bi 191 a | - | 9 | - | 
 |BE 150 | - | - | 9 |
 | BE 98 | 9 | 9 | 9 |
-| HSS | 18 | 9 | 18 |
+| HSS | 9 | 9 | 9 |
 |Physical education | 3 | - | - |
 |**Total** | 36 | 39 | 36 |
