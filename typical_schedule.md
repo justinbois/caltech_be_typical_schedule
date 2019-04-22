@@ -27,8 +27,8 @@
 |Ph 2 ac | 9 | - | 9 |
 |Ch 41 a | 9 | - | - |
 |Ch 25 | - | - | 9 |
-| ACM 95 ab | - | 12 | 12 |
-|BE/EE/MedE 189 a | 12 | - | - |
+|ChE/BE 163 | 12 | - | - |
+|BE/EE/MedE 189 a | - | - | 12 |
 |Advanced Biology Elective | - | 9 | - |
 |Menu course  | - | - | 9 |
 | HSS | - | 9 | - |
@@ -40,9 +40,9 @@
 | Course        | Fall units | Winter units | Spring units|
 | ------------- |-------------:| -----:| -----:|
 | ACM 116| 9 | - | - |
+| ACM 95 ab | - | 12 | 12 |
 | Advanced BE Electives| 9 | 9 | 18 |
 |Bi/Ch 110 | 12 | - | - |
-|ChE/BE 163 | 12 | - | - |
 |BE/CS 196 a | - | 12 | - |
 |BE 98| - | - | 9 |
 | HSS | - | 18 | 18|
