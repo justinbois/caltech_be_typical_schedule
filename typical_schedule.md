@@ -34,7 +34,7 @@
 |Menu course  | - | - | 9 |
 | HSS | 9 | 9 | 9 |
 |Physical education | - | 3 | - |
-|**Total** | 48 | 41 | 48 |
+|**Total** | 48 | 42 | 48 |
 
 
 ## Third year
