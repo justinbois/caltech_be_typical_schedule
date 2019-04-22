@@ -44,9 +44,9 @@
 | ACM 95 ab | - | 12 | 12 |
 | Advanced BE Electives| 9 | 9 | 18 |
 |Bi/Ch 110 | 12 | - | - |
-|BE 98| - | - | 9 |
+|BE 98| - | - | 6 |
 | HSS | 18 | 18 | 9|
-|**Total** | 42| 39 | 45 |
+|**Total** | 48| 39 | 45 |
 
 
 ## Fourth year
