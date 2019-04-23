@@ -60,4 +60,4 @@
 | BE 98 | 9 | 6 | 9 |
 | HSS | 9 | 9 | 9 |
 |Physical education | 3 | - | - |
-|**Total** | 36 | 39 | 36 |
+|**Total** | 36 | 36 | 45 |
