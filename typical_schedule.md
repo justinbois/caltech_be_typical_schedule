@@ -55,9 +55,9 @@
 | BE/APh 161 | - | 12 | - |
 |BE/CS/CNS/Bi 191 a | - | 9 | - | 
 |BE 150 | - | - | 9 |
-| ChE 130| - | - | 9 |
-| Elective | 9 | 9 | - |
+| ChE 130 | - | - | 9 |
+| Misc. Elective | 9 | - | 9 |
 | BE 98 | 9 | 6 | 9 |
 | HSS | 9 | 9 | 9 |
 |Physical education | 3 | - | - |
-|**Total** | 36 | 45 | 36 |
+|**Total** | 36 | 39 | 36 |
