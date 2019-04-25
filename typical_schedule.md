@@ -28,12 +28,12 @@
 |Ch 41 a | 9 | - | - |
 |Ch 25 | - | - | 9 |
 |ChE/BE 163 | 12 | - | - |
+|BE/CS 196 a | - | 12 | - |
 |BE/EE/MedE 189 a | - | - | 12 |
-|Advanced Biology Elective | - | 9 | - |
 |Menu course  | - | - | 9 |
 | HSS | - | 18 | 9 |
 |Physical education | 3 | 3 | - |
-|**Total** | 42 | 39 | 48 |
+|**Total** | 42 | 42 | 48 |
 
 
 ## Third year
@@ -55,7 +55,7 @@
 | BE/APh 161 | - | 12 | - |
 |BE/CS/CNS/Bi 191 a | - | 9 | - | 
 |BE 150 | - | - | 9 |
-| ChE 130 | - | - | 9 |
+|Advanced Biology Elective | - | - | 9 |
 | Misc. Elective | 9 | - | 9 |
 | BE 98 | 9 | 6 | 9 |
 | HSS | 9 | 9 | 9 |
