@@ -57,7 +57,7 @@
 |BE 150 | - | - | 9 |
 |Advanced Biology Elective | - | - | 9 |
 | Misc. Elective | 9 | - | 9 |
-| BE 98 | 9 | 6 | 9 |
+| BE 98 | 9 | 9 | 9 |
 | HSS | 9 | 9 | 9 |
 |Physical education | 3 | - | - |
-|**Total** | 36 | 36 | 45 |
+|**Total** | 36 | 39 | 45 |
