@@ -1,5 +1,5 @@
 # Typical schedule 
-(specific courses are representive and may be substituted per option requirements)
+(specific courses are representative and may be substituted per option requirements)
 
 ## First year
 
